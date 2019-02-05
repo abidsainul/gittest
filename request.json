@@ -1,5 +1,6 @@
 {
   "header": "master",
   "title": "master title",
-  "req-field" : "yes"
+  "req-field" : "yes",
+   "fix-field" : "new"
 }
